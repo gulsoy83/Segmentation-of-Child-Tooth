@@ -7,7 +7,7 @@ diagnosis and dental treatment. For example, numbering of teeth is necessary to
 identify human tooth images in routine dental procedures, maxillofacial surgical
 practices, and dental generic modeling.
 
-This project will segment the teeth on the x-rays given as input using the mask-RCNN
-algorithm and determine the type of tooth in order to automate the job of segmenting
-and identifying the type of teeth on the x-ray in order to reduce the workload of
+This project segments the teeth on the x-rays given as input using the mask-RCNN
+algorithm and determines the type of tooth in order to automate the job of segmenting
+and identifying the type of teeth on the x-ray, thus reduces the workload of
 professionals during the examination process.
