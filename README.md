@@ -11,3 +11,6 @@ This project segments the teeth on the x-rays given as input using the mask-RCNN
 algorithm and determines the type of tooth in order to automate the job of segmenting
 and identifying the type of teeth on the x-ray, thus reduces the workload of
 professionals during the examination process.
+
+Contributors:
+M. Enes Gülsoy, Gıyat Mosa.
