@@ -1,0 +1,5 @@
+﻿As the data set, 170 pediatric dental x-rays (belonging to IvisionLab) obtained from our consultant Ayşe Betül Oktay were used.
+[https://github.com/IvisionLab]
+
+
+The annotation files of this dataset were created by us using the labelme library.
